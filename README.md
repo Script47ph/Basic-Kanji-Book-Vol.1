@@ -6,7 +6,12 @@ Catatan pribadi mengenai daftar kanji yang ada di buku "Basic Kanji Book Vol.1"
 - [Bab 2](#bab-2)
 - [Bab 3](#bab-3)
 
+<div align="center">
+<div align="left">
+
 ## Bab 1
+
+</div>
 
 | Kanji |  Kunyomi   |   Onyomi   |    Indonesian    |   English   |
 | :---: | :--------: | :--------: | :--------------: | :---------: |
@@ -21,7 +26,11 @@ Catatan pribadi mengenai daftar kanji yang ada di buku "Basic Kanji Book Vol.1"
 |  車   |   くるま   |    シャ    | mobil, kendaraan |     car     |
 |  門   |    かど    |    モン    |     gerbang      |    gate     |
 
+<div align="left">
+
 ## Bab 2
+
+</div>
 
 | Kanji |       Kunyomi        | Onyomi |    Indonesian     |       English       |
 | :---: | :------------------: | :----: | :---------------: | :-----------------: |
@@ -36,7 +45,11 @@ Catatan pribadi mengenai daftar kanji yang ada di buku "Basic Kanji Book Vol.1"
 |  先   |         さき         |  セン  |   sebelum, tadi   | previous, foregoing |
 |  私   |   わたし、わたくし   |   シ   |       saya        |          i          |
 
+<div align="left">
+
 ## Bab 3
+
+</div>
 
 | Kanji |      Kunyomi       |     Onyomi     |  Indonesian  |   English    |
 | :---: | :----------------: | :------------: | :----------: | :----------: |
@@ -55,3 +68,5 @@ Catatan pribadi mengenai daftar kanji yang ada di buku "Basic Kanji Book Vol.1"
 |  万   |                    |   マン、バン   | sepuluh ribu | ten thousand |
 |  円   |      まるーい      |      エン      |     yen      |     yen      |
 |  年   |        とし        |      ネン      |    tahun     |     year     |
+
+</div>
