@@ -8,6 +8,7 @@ Catatan pribadi mengenai daftar kanji yang ada di buku "Basic Kanji Book Vol.1"
 - [Bab 2](#bab-2)
 - [Bab 3](#bab-3)
 - [Bab 4](#bab-4)
+- [新しい言葉](#atarashiikotoba)
 
 <div align="center">
 <div align="left">
@@ -90,5 +91,53 @@ Catatan pribadi mengenai daftar kanji yang ada di buku "Basic Kanji Book Vol.1"
 |  分   |   わーかれる、わーかる、わーける   |   フン、ブン   |    memisah, mengerti, membagi, menit     |  division, part, menit   |
 |  力   |               ちから               |  リョク、リキ  |                 kekuatan                 |  power, force, ability   |
 |  何   |             なん、なに             |       ヵ       |                   apa                    |           what           |
+
+<div align="left">
+
+## Bab 5
+
+</div>
+
+| Kanji | Kunyomi | Onyomi | Indonesian | English |
+| :---: | :-----: | :----: | :--------: | :-----: |
+|       |         |        |            |         |
+
+<div align="left" id="atarashiikotoba">
+
+### 新しい言葉
+
+</div>
+
+`furigana tidak dituliskan semuanya agar tidak selalu terpaku terhadap bacaan furigana`
+
+|  Kanji   |  Furigana  |      Indonesian      |       English        |
+| :------: | :--------: | :------------------: | :------------------: |
+|  富士山  |            |     gunung fuji      |    mountain fuji     |
+|   火山   |            |    gunung berapi     |       volcano        |
+|   入口   |            |     pintu masuk      |       entrance       |
+|   出口   |            |     pintu keluar     |         exit         |
+|  自動車  |            |        mobil         |         car          |
+|   電車   |            |        kereta        |        train         |
+|   専門   |  せんもん  |       keahlian       |      speciality      |
+|  筑波山  | つくばさん |    gunung tsukuba    |   mountain tsukuba   |
+|  利根川  |  とねかわ  |     sungai tone      |      tone river      |
+|   土木   |            |     teknik sipil     |  civil engineering   |
+| 私立大学 |            |  universitas swasta  |  private university  |
+| 国立大学 |            |  universitas negeri  |   state university   |
+|  千葉県  |            |   prefektur chiba    |     chiba pref.      |
+|   去年   |            |      tahun lalu      |      last year       |
+|   年上   |            |  lebih tua, atasan   |        older         |
+|   年下   |            | lebih muda, bawahan  |       younger        |
+|   上手   |            |        pintar        |        smart         |
+| 下車する |            | turun dari kendaraan | get off from vehicle |
+|  一日中  |            |       seharian       |     all day long     |
+|   中心   |            |        pusat         |      the center      |
+|   大切   |            |       penting        |       importan       |
+|   大人   |            |        dewasa        |        adult         |
+|   本日   |            |       hari ini       |       this day       |
+|   本店   |            |      toko pusat      |   the main office    |
+|   半年   |            |    setengah tahun    |     half a year      |
+|   半分   |            |       setengah       |         half         |
+|          |            |                      |                      |
 
 </div>
