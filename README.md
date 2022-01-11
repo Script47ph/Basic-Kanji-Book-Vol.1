@@ -36,18 +36,18 @@ Catatan pribadi mengenai daftar kanji yang ada di buku "Basic Kanji Book Vol.1"
 
 </div>
 
-| Kanji |       Kunyomi        | Onyomi |    Indonesian     |       English       |
-| :---: | :------------------: | :----: | :---------------: | :-----------------: |
-|  火   |          ひ          |   ヵ   |        api        |        fire         |
-|  水   |         みず         |  スイ  |        air        |        water        |
-|  金   |         かね         |  キン  |    uang, emas     |     money, gold     |
-|  土   |         つち         |   ド   |       tanah       |    ground, earth    |
-|  子   |          こ          |   シ   |       anak        |        child        |
-|  女   |        おんな        |  ジョ  | wanita, perempuan |    woman, female    |
-|  学   |       まなーぶ       | マナブ |      belajar      |        study        |
-|  生   | いーきる、うーまれる |  セイ  |   hidup, lahir    |     live, birth     |
-|  先   |         さき         |  セン  |   sebelum, tadi   | previous, foregoing |
-|  私   |   わたし、わたくし   |   シ   |       saya        |          i          |
+| No  | Kanji |       Kunyomi        | Onyomi |    Indonesian     |       English       |
+| :-: | :---: | :------------------: | :----: | :---------------: | :-----------------: |
+|  1  |  火   |          ひ          |   ヵ   |        api        |        fire         |
+|  2  |  水   |         みず         |  スイ  |        air        |        water        |
+|  3  |  金   |         かね         |  キン  |    uang, emas     |     money, gold     |
+|  4  |  土   |         つち         |   ド   |       tanah       |    ground, earth    |
+|  5  |  子   |          こ          |   シ   |       anak        |        child        |
+|  6  |  女   |        おんな        |  ジョ  | wanita, perempuan |    woman, female    |
+|  7  |  学   |       まなーぶ       | マナブ |      belajar      |        study        |
+|  8  |  生   | いーきる、うーまれる |  セイ  |   hidup, lahir    |     live, birth     |
+|  9  |  先   |         さき         |  セン  |   sebelum, tadi   | previous, foregoing |
+| 10  |  私   |   わたし、わたくし   |   シ   |       saya        |          i          |
 
 <div align="left">
 
@@ -55,23 +55,23 @@ Catatan pribadi mengenai daftar kanji yang ada di buku "Basic Kanji Book Vol.1"
 
 </div>
 
-| Kanji |      Kunyomi       |     Onyomi     |  Indonesian  |   English    |
-| :---: | :----------------: | :------------: | :----------: | :----------: |
-|  一   |      ひとーつ      |      イチ      |     satu     |     one      |
-|  二   |      ふたーつ      |       二       |     dua      |     two      |
-|  三   |      みっーつ      |      サン      |     tiga     |    three     |
-|  四   | よっーつ、よん、よ |       シ       |    empat     |     four     |
-|  五   |      いつーつ      |       ゴ       |     lima     |     five     |
-|  六   |      むっーつ      |      ロク      |     enam     |     six      |
-|  七   |      ななーつ      |      シチ      |    tujuh     |    seven     |
-|  八   |      やっーつ      |      ハチ      |   delapan    |    eight     |
-|  九   |     ここのーつ     |   ク、キュウ   |   sembilan   |     nine     |
-|  十   |        とお        |     ジュウ     |   sepuluh    |     ten      |
-|  百   |                    | ヒャク、ビャク |   seratus    |   hundred    |
-|  千   |         ち         |      セン      |    seribu    |   thousand   |
-|  万   |                    |   マン、バン   | sepuluh ribu | ten thousand |
-|  円   |      まるーい      |      エン      |     yen      |     yen      |
-|  年   |        とし        |      ネン      |    tahun     |     year     |
+| No  | Kanji |      Kunyomi       |     Onyomi     |  Indonesian  |   English    |
+| :-: | :---: | :----------------: | :------------: | :----------: | :----------: |
+|  1  |  一   |      ひとーつ      |      イチ      |     satu     |     one      |
+|  2  |  二   |      ふたーつ      |       二       |     dua      |     two      |
+|  3  |  三   |      みっーつ      |      サン      |     tiga     |    three     |
+|  4  |  四   | よっーつ、よん、よ |       シ       |    empat     |     four     |
+|  5  |  五   |      いつーつ      |       ゴ       |     lima     |     five     |
+|  6  |  六   |      むっーつ      |      ロク      |     enam     |     six      |
+|  7  |  七   |      ななーつ      |      シチ      |    tujuh     |    seven     |
+|  8  |  八   |      やっーつ      |      ハチ      |   delapan    |    eight     |
+|  9  |  九   |     ここのーつ     |   ク、キュウ   |   sembilan   |     nine     |
+| 10  |  十   |        とお        |     ジュウ     |   sepuluh    |     ten      |
+| 11  |  百   |                    | ヒャク、ビャク |   seratus    |   hundred    |
+| 12  |  千   |         ち         |      セン      |    seribu    |   thousand   |
+| 13  |  万   |                    |   マン、バン   | sepuluh ribu | ten thousand |
+| 14  |  円   |      まるーい      |      エン      |     yen      |     yen      |
+| 15  |  年   |        とし        |      ネン      |    tahun     |     year     |
 
 <div align="left">
 
@@ -79,18 +79,18 @@ Catatan pribadi mengenai daftar kanji yang ada di buku "Basic Kanji Book Vol.1"
 
 </div>
 
-| Kanji |              Kunyomi               |     Onyomi     |                Indonesian                |         English          |
-| :---: | :--------------------------------: | :------------: | :--------------------------------------: | :----------------------: |
-|  上   | うえ、あーがる、のぼーる、あーげる |     ジョウ     | atas, ke atas, naik, angkat (mengangkat) | above, on, up, superior  |
-|  下   | した、さーがる、くだーる、さーげる |     ヵ、ゲ     |    bawah, ke bawah, turun, menurunkan    |  under, down, inferior   |
-|  中   |                なか                | チュウ、ジュウ |                  dalam                   |      middle, inside      |
-|  大   |             おおーきい             |   ダイ、タイ   |                  besar                   |        big, large        |
-|  小   |         ちいーさい、こ／お         |     ショウ     |                  kecil                   |      small, little       |
-|  本   |                もと                |      ホン      |                                          | root, origin, true, main |
-|  半   |              なかーば              |      ハン      |         setengah, tengah-tengah          |           half           |
-|  分   |   わーかれる、わーかる、わーける   |   フン、ブン   |    memisah, mengerti, membagi, menit     |  division, part, menit   |
-|  力   |               ちから               |  リョク、リキ  |                 kekuatan                 |  power, force, ability   |
-|  何   |             なん、なに             |       ヵ       |                   apa                    |           what           |
+| No  | Kanji |              Kunyomi               |     Onyomi     |                Indonesian                |         English          |
+| :-: | :---: | :--------------------------------: | :------------: | :--------------------------------------: | :----------------------: |
+|  1  |  上   | うえ、あーがる、のぼーる、あーげる |     ジョウ     | atas, ke atas, naik, angkat (mengangkat) | above, on, up, superior  |
+|  2  |  下   | した、さーがる、くだーる、さーげる |     ヵ、ゲ     |    bawah, ke bawah, turun, menurunkan    |  under, down, inferior   |
+|  3  |  中   |                なか                | チュウ、ジュウ |                  dalam                   |      middle, inside      |
+|  4  |  大   |             おおーきい             |   ダイ、タイ   |                  besar                   |        big, large        |
+|  5  |  小   |         ちいーさい、こ／お         |     ショウ     |                  kecil                   |      small, little       |
+|  6  |  本   |                もと                |      ホン      |                                          | root, origin, true, main |
+|  7  |  半   |              なかーば              |      ハン      |         setengah, tengah-tengah          |           half           |
+|  8  |  分   |   わーかれる、わーかる、わーける   |   フン、ブン   |    memisah, mengerti, membagi, menit     |  division, part, menit   |
+|  9  |  力   |               ちから               |  リョク、リキ  |                 kekuatan                 |  power, force, ability   |
+| 10  |  何   |             なん、なに             |       ヵ       |                   apa                    |           what           |
 
 <div align="left">
 
