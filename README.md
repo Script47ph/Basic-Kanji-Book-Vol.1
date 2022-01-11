@@ -69,4 +69,23 @@ Catatan pribadi mengenai daftar kanji yang ada di buku "Basic Kanji Book Vol.1"
 |  円   |      まるーい      |      エン      |     yen      |     yen      |
 |  年   |        とし        |      ネン      |    tahun     |     year     |
 
+<div align="left">
+
+## Bab 4
+
+</div>
+
+| Kanji |              Kunyomi               |     Onyomi     |                Indonesian                |         English          |
+| :---: | :--------------------------------: | :------------: | :--------------------------------------: | :----------------------: |
+|  上   | うえ、あーがる、のぼーる、あーげる |     ジョウ     | atas, ke atas, naik, angkat (mengangkat) | above, on, up, superior  |
+|  下   | した、さーがる、くだーる、さーげる |     ヵ、ゲ     |    bawah, ke bawah, turun, menurunkan    |  under, down, inferior   |
+|  中   |                なか                | チュウ、ジュウ |                  dalam                   |      middle, inside      |
+|  大   |             おおーきい             |   ダイ、タイ   |                  besar                   |        big, large        |
+|  小   |         ちいーさい、こ／お         |     ショウ     |                  kecil                   |      small, little       |
+|  本   |                もと                |      ホン      |                                          | root, origin, true, main |
+|  半   |              なかーば              |      ハン      |         setengah, tengah-tengah          |           half           |
+|  分   |   わーかれる、わーかる、わーける   |   フン、ブン   |    memisah, mengerti, membagi, menit     |  division, part, menit   |
+|  力   |               ちから               |  リョク、リキ  |                 kekuatan                 |  power, force, ability   |
+|  何   |             なん、なに             |       ヵ       |                   apa                    |           what           |
+
 </div>
