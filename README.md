@@ -17,18 +17,18 @@ Catatan pribadi mengenai daftar kanji yang ada di buku "Basic Kanji Book Vol.1"
 
 </div>
 
-| Kanji |  Kunyomi   |   Onyomi   |    Indonesian    |   English   |
-| :---: | :--------: | :--------: | :--------------: | :---------: |
-|  日   | ひ、び、か | ニチ、ジツ |       hari       |     day     |
-|  月   |    つき    | ガツ／ゲツ |      bulan       | moon, month |
-|  木   |     き     | モク／ボク |      pohon       |    tree     |
-|  山   |    やま    |    サン    |      gunung      |  mountain   |
-|  川   |    かわ    |    セン    |      sungai      |    river    |
-|  田   |     た     |    デン    |      sawah       | rice field  |
-|  人   |    ひと    | ジン／ニン |      orang       |   person    |
-|  口   |    くち    |    コウ    |      mulut       |    mouth    |
-|  車   |   くるま   |    シャ    | mobil, kendaraan |     car     |
-|  門   |    かど    |    モン    |     gerbang      |    gate     |
+| No  | Kanji |  Kunyomi   |   Onyomi   |    Indonesian    |   English   |
+| :-: | :---: | :--------: | :--------: | :--------------: | :---------: |
+|  1  |  日   | ひ、び、か | ニチ、ジツ |       hari       |     day     |
+|  2  |  月   |    つき    | ガツ／ゲツ |      bulan       | moon, month |
+|  3  |  木   |     き     | モク／ボク |      pohon       |    tree     |
+|  4  |  山   |    やま    |    サン    |      gunung      |  mountain   |
+|  5  |  川   |    かわ    |    セン    |      sungai      |    river    |
+|  6  |  田   |     た     |    デン    |      sawah       | rice field  |
+|  7  |  人   |    ひと    | ジン／ニン |      orang       |   person    |
+|  8  |  口   |    くち    |    コウ    |      mulut       |    mouth    |
+|  9  |  車   |   くるま   |    シャ    | mobil, kendaraan |     car     |
+| 10  |  門   |    かど    |    モン    |     gerbang      |    gate     |
 
 <div align="left">
 
