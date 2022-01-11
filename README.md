@@ -12,7 +12,7 @@ Catatan pribadi mengenai daftar kanji yang ada di buku "Basic Kanji Book Vol.1"
 <div align="center">
 <div align="left">
 
-### Bab 1
+## Bab 1
 
 </div>
 
@@ -31,7 +31,7 @@ Catatan pribadi mengenai daftar kanji yang ada di buku "Basic Kanji Book Vol.1"
 
 <div align="left">
 
-### Bab 2
+## Bab 2
 
 </div>
 
@@ -50,7 +50,7 @@ Catatan pribadi mengenai daftar kanji yang ada di buku "Basic Kanji Book Vol.1"
 
 <div align="left">
 
-### Bab 3
+## Bab 3
 
 </div>
 
@@ -74,7 +74,7 @@ Catatan pribadi mengenai daftar kanji yang ada di buku "Basic Kanji Book Vol.1"
 
 <div align="left">
 
-### Bab 4
+## Bab 4
 
 </div>
 
