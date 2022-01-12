@@ -98,18 +98,18 @@ Catatan pribadi mengenai daftar kanji yang ada di buku "Basic Kanji Book Vol.1"
 
 </div>
 
-| Kanji |       Kunyomi        |   Onyomi   |   Indonesian    |       English        |
-| :---: | :------------------: | :--------: | :-------------: | :------------------: |
-|  明   | あかーるい、あーける |    メイ    |  cerah, terang  |    bright, light     |
-|  休   |       やすーむ       |   キュウ   |    istirahat    |         rest         |
-|  体   |        からだ        |    タイ    |  tubuh, badan   |         body         |
-|  好   |    すーき、すーく    |    コウ    |      suka       | love, like, favorite |
-|  男   |        おとこ        | ダン／ナン | pria, laki-laki |      man, male       |
-|  林   |        はやし        |    リン    |      hutan      |     wood, grove      |
-|  森   |         もり         |    シン    |      hutan      |    forest, jungle    |
-|  間   |      あいだ、ま      |    カン    |    di antara    |  between, interval   |
-|  畑   |     はたけ／はた     |            |      sawah      |   cultivated field   |
-|  岩   |         いわ         |    ガン    |      batu       |         rock         |
+| No  | Kanji |       Kunyomi        |   Onyomi   |   Indonesian    |       English        |
+| :-: | :---: | :------------------: | :--------: | :-------------: | :------------------: |
+|  1  |  明   | あかーるい、あーける |    メイ    |  cerah, terang  |    bright, light     |
+|  2  |  休   |       やすーむ       |   キュウ   |    istirahat    |         rest         |
+|  3  |  体   |        からだ        |    タイ    |  tubuh, badan   |         body         |
+|  4  |  好   |    すーき、すーく    |    コウ    |      suka       | love, like, favorite |
+|  5  |  男   |        おとこ        | ダン／ナン | pria, laki-laki |      man, male       |
+|  6  |  林   |        はやし        |    リン    |      hutan      |     wood, grove      |
+|  7  |  森   |         もり         |    シン    |      hutan      |    forest, jungle    |
+|  8  |  間   |      あいだ、ま      |    カン    |    di antara    |  between, interval   |
+|  9  |  畑   |     はたけ／はた     |            |      sawah      |   cultivated field   |
+| 10  |  岩   |         いわ         |    ガン    |      batu       |         rock         |
 
 <div align="left" id="atarashiikotoba">
 
