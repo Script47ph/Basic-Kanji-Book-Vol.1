@@ -9,6 +9,7 @@ Catatan pribadi mengenai daftar kanji yang ada di buku "Basic Kanji Book Vol.1"
 - [Bab 3](#bab-3)
 - [Bab 4](#bab-4)
 - [Bab 5](#bab-5)
+- [Bab 6](#bab-6)
 - [新しい言葉](#atarashiikotoba)
 
 <div align="center">
@@ -111,6 +112,25 @@ Catatan pribadi mengenai daftar kanji yang ada di buku "Basic Kanji Book Vol.1"
 |  8  |  間   |      あいだ、ま      |    カン    |    di antara    |  between, interval   |
 |  9  |  畑   |     はたけ／はた     |            |      sawah      |   cultivated field   |
 | 10  |  岩   |         いわ         |    ガン    |      batu       |         rock         |
+
+<div align="left">
+
+## Bab 6
+
+</div>
+
+| Kanji |        Kunyomi         |   Onyomi   |   Indonesian    |      English       |
+| :---: | :--------------------: | :--------: | :-------------: | :----------------: |
+|  目   |           め           |    モク    |      mata       |        eye         |
+|  耳   |          みみ          |     ジ     |     telinga     |        ear         |
+|  手   |           て           |    シュ    |     tangan      |        hand        |
+|  足   | あし、たーりる、たーす |    ソク    |  kaki, pasang   | leg, pair, suffice |
+|  雨   |          あめ          |     ウ     |      hujan      |        rain        |
+|  竹   |          たけ          |    チク    |      bambu      |       bamboo       |
+|  米   |          こめ          | マイ、ベイ | beras, amerika  |   rice, america    |
+|  貝   |          かい          |    バイ    |     kerang      |     shellfish      |
+|  石   |          いし          |    セキ    |      batu       |       stone        |
+|  糸   |          いと          |     シ     | benang, untaian |   thread, string   |
 
 <div align="left" id="atarashiikotoba">
 
