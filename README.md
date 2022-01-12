@@ -165,6 +165,8 @@ Catatan pribadi mengenai daftar kanji yang ada di buku "Basic Kanji Book Vol.1"
 |   林業   |            |                kehutanan                 |          forestry           |
 |   森林   |            |                  hutan                   |      woods and forests      |
 | 間に合う |            |               tepat waktu                |        to be on time        |
+|  〜ずつ  |            |           setiap/masing-masing           |          for each           |
+|  色々な  |            |              bermacam-macam              |           various           |
 |          |            |                                          |                             |
 
 </div>
