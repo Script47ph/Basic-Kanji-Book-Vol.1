@@ -8,6 +8,7 @@ Catatan pribadi mengenai daftar kanji yang ada di buku "Basic Kanji Book Vol.1"
 - [Bab 2](#bab-2)
 - [Bab 3](#bab-3)
 - [Bab 4](#bab-4)
+- [Bab 5](#bab-5)
 - [新しい言葉](#atarashiikotoba)
 
 <div align="center">
