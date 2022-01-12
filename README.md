@@ -159,5 +159,12 @@ Catatan pribadi mengenai daftar kanji yang ada di buku "Basic Kanji Book Vol.1"
 |   生徒   |            |                  murid                   |       pupil, student        |
 |   生活   |            |                kehidupan                 |        living, life         |
 |   先頭   |            |                 memimpin                 |                             |
+|   休日   |            |                hari libur                |           holiday           |
+|   体力   |            |              kekuatan fisik              |      physical strength      |
+|   体育   |            |                 olahraga                 |      physical exercise      |
+|   林業   |            |                kehutanan                 |          forestry           |
+|   森林   |            |                  hutan                   |      woods and forests      |
+| 間に合う |            |               tepat waktu                |        to be on time        |
+|          |            |                                          |                             |
 
 </div>
