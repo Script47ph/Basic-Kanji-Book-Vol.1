@@ -151,7 +151,7 @@ Catatan pribadi mengenai daftar kanji yang ada di buku "Basic Kanji Book Vol.1"
 |  8  |  馬   |     うま     |     バ     |           kuda           |       horse       |
 |  9  |  鳥   |     とり     |   チョウ   |          burung          |       bird        |
 | 10  |  魚   | さかな、うお |    ギョ    |           ikan           |       fish        |
-|  |
+|     |
 
 <div align="left" id="atarashiikotoba">
 
@@ -220,10 +220,31 @@ Catatan pribadi mengenai daftar kanji yang ada di buku "Basic Kanji Book Vol.1"
 |   水泳   |            |                 berenang                 |                swimming                |
 |  再来月  | さらいげつ |        bulan setelah bulan depan         |            month after next            |
 |   日記   |            |               buku harian                |                 diary                  |
-|   田舎   |            |             kampung halaman              |               rural area               |
+|   田舎   |   いなか   |             kampung halaman              |               rural area               |
 |   木綿   |   もめん   |                  kapas                   |                 cotton                 |
 |   汽車   |            |       kereta (kereta yang panjang)       | train (especially long distance train) |
 |   人形   |            |                  boneka                  |                  doll                  |
 |  駐車場  |            |              tempat parkir               |                car park                |
+|   花便   |            |                vas bunga                 |                  vase                  |
+|   花火   |            |               kembang api                |               fireworks                |
+|  日本茶  |            |          teh jepang (teh hijau)          |               green tea                |
+|  喫茶店  |            |                   kafe                   |                  cafe                  |
+|   紅茶   |            |       teh (teh biasa pada umumnya)       |                  tea                   |
+|   鶏肉   |            |               daging ayam                |              chicken meat              |
+|   牛肉   |            |               daging sapi                |                  beef                  |
+|   肉体   |            |                  tubuh                   |                  body                  |
+|  文部省  |            |          kementrian pendidikan           |       the ministry of education        |
+|   漢字   |            |              karakter cina               |            china character             |
+|   生物   |            |                 biologi                  |                biology                 |
+|  買い物  |            |                 belanja                  |                shopping                |
+|   荷物   |            |              barang bawaan               |                baggage                 |
+|   牛乳   |            |                   susu                   |                  milk                  |
+|   馬車   |            |                 angkutan                 |                carriage                |
+|   馬力   |            |               tenaga kuda                |               horsepower               |
+|   白鳥   |            |                  angsa                   |                  swan                  |
+|   金魚   |            |                 ikan mas                 |                goldfish                |
+|   小鳥   |            |               burung kecil               |               small bird               |
+|   子馬   |            |                kuda poni                 |                  pony                  |
+|          |            |                                          |                                        |
 
 </div>
