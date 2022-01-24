@@ -10,6 +10,7 @@ Catatan pribadi mengenai daftar kanji yang ada di buku "Basic Kanji Book Vol.1"
 - [Bab 4](#bab-4)
 - [Bab 5](#bab-5)
 - [Bab 6](#bab-6)
+- [Bab 7](#bab-7)
 - [新しい言葉](#atarashiikotoba)
 
 <div align="center">
@@ -131,6 +132,26 @@ Catatan pribadi mengenai daftar kanji yang ada di buku "Basic Kanji Book Vol.1"
 |  8  |  貝   |          かい          |    バイ    |     kerang      |     shellfish      |
 |  9  |  石   |          いし          |    セキ    |      batu       |       stone        |
 | 10  |  糸   |          いと          |     シ     | benang, untaian |   thread, string   |
+
+<div align="left">
+
+## Bab 7
+
+</div>
+
+| No  | Kanji |   Kunyomi    |   Onyomi   |        Indonesian        |      English      |
+| :-: | :---: | :----------: | :--------: | :----------------------: | :---------------: |
+|  1  |  花   |     はな     |     か     |          bunga           |      flower       |
+|  2  |  茶   |              |  チャ、サ  |           teh            |        tea        |
+|  3  |  肉   |              |    ニク    |          daging          |       meat        |
+|  4  |  文   |     ふみ     | ブン、モン |         kalimat          |     sentence      |
+|  5  |  字   |              |     ジ     | karakter (huruf, aksara) | character, letter |
+|  6  |  物   |     もの     | ブツ、モツ |         sesuatu          |       thing       |
+|  7  |  牛   |     うし     |   ギュウ   |           sapi           |        cow        |
+|  8  |  馬   |     うま     |     バ     |           kuda           |       horse       |
+|  9  |  鳥   |     とり     |   チョウ   |          burung          |       bird        |
+| 10  |  魚   | さかな、うお |    ギョ    |           ikan           |       fish        |
+|  |
 
 <div align="left" id="atarashiikotoba">
 
