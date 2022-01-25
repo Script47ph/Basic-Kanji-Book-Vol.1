@@ -11,6 +11,7 @@ Catatan pribadi mengenai daftar kanji yang ada di buku "Basic Kanji Book Vol.1"
 - [Bab 5](#bab-5)
 - [Bab 6](#bab-6)
 - [Bab 7](#bab-7)
+- [Bab 8](#bab-8)
 - [新しい言葉](#atarashiikotoba)
 
 <div align="center">
@@ -151,7 +152,25 @@ Catatan pribadi mengenai daftar kanji yang ada di buku "Basic Kanji Book Vol.1"
 |  8  |  馬   |     うま     |     バ     |           kuda           |       horse       |
 |  9  |  鳥   |     とり     |   チョウ   |          burung          |       bird        |
 | 10  |  魚   | さかな、うお |    ギョ    |           ikan           |       fish        |
-|     |
+
+<div align="left">
+
+## Bab 8
+
+</div>
+
+| No  | Kanji  |       Kunyomi        | Onyomi |  Indonesian   |     English     |
+| :-: | :----: | :------------------: | :----: | :-----------: | :-------------: |
+|  1  | 新しい |     あたらーしい     |  シン  |     baru      |       new       |
+|  2  |  古い  |       ふるーい       |   コ   |     lama      |       old       |
+|  3  |  長い  |       ながーい       | チョウ |    panjang    |  long, eldest   |
+|  4  |  短い  |      みじかーい      |  タン  |    pendek     |      short      |
+|  5  |  高い  |       たかーい       |  コウ  | tinggi, mahal | high, expensive |
+|  6  |  安い  |       やすーい       |  アン  |  murah, aman  |   safe, cheap   |
+|  7  |  低い  |       ひくーい       |  テイ  |    rendah     |       low       |
+|  8  |  暗い  |       くらーい       |  アン  |     gelap     |      dark       |
+|  9  |  多い  |       おおーい       |   た   |    banyak     |   many, much    |
+| 10  | 少ない | すくーない、すこーし | ショウ |    sedikit    |   few, little   |
 
 <div align="left" id="atarashiikotoba">
 
@@ -183,7 +202,7 @@ Catatan pribadi mengenai daftar kanji yang ada di buku "Basic Kanji Book Vol.1"
 | 下車する |            |           turun dari kendaraan           |          get off from vehicle          |
 |  一日中  |            |                 seharian                 |              all day long              |
 |   中心   |            |                  pusat                   |               the center               |
-|   大切   |            |                 penting                  |                importan                |
+|  大切な  |            |                 penting                  |                importan                |
 |   大人   |            |                  dewasa                  |                 adult                  |
 |   本日   |            |                 hari ini                 |                this day                |
 |   本店   |            |                toko pusat                |            the main office             |
@@ -194,6 +213,7 @@ Catatan pribadi mengenai daftar kanji yang ada di buku "Basic Kanji Book Vol.1"
 |   子供   |            |                   anak                   |                 child                  |
 |   王女   |            |                tuan putri                |                princess                |
 |   長女   |            | perempuan tertua (anak perempuan tertua) |            eldest daughter             |
+|   長男   |            | laki-laki tertua (anak laki-laki tertua) |               eldest son               |
 |   休学   |            |               cuti sekolah               |                                        |
 |   学力   |            |            kemampuan akademik            |                                        |
 |   文学   |            |                  sastra                  |               literature               |
@@ -245,6 +265,26 @@ Catatan pribadi mengenai daftar kanji yang ada di buku "Basic Kanji Book Vol.1"
 |   金魚   |            |                 ikan mas                 |                goldfish                |
 |   小鳥   |            |               burung kecil               |               small bird               |
 |   子馬   |            |                kuda poni                 |                  pony                  |
+|   新車   |            |                mobil baru                |                new car                 |
+|   新聞   |            |            koran, surat kabar            |               newspaper                |
+|   新年   |            |                tahun baru                |                new year                |
+|  中古車  |            |               mobil bekas                |            second-hand car             |
+|  長野県  |            |             prefektur nagano             |           nagano prefecture            |
+|   学長   |            |                                          |               president                |
+|  短時間  |            |              waktu singkat               |               short time               |
+|   短大   |            |              junior kampus               |             junior college             |
+|   高校   |            |                   sma                    |              high school               |
+|   高速   |            |             kecepatan tinggi             |               high speed               |
+|   安心   |            |                   lega                   |                relieved                |
+|  安全な  |            |                   aman                   |                  safe                  |
+|  安売り  |            |                                          |              bargain sale              |
+|   低温   |            |               suhu rendah                |            low temperature             |
+| 低下する |            |                  jatuh                   |             fall, go down              |
+|   暗室   |            |           ruangan/kamar gelap            |               dark room                |
+|   多数   |            |                  banyak                  |              large number              |
+|   多少   |            |        agak (sedikit atau banyak)        |              more or less              |
+|   少年   |            |                laki-laki                 |                  boy                   |
+|   少女   |            |                perempuan                 |                  girl                  |
 |          |            |                                          |                                        |
 
 </div>
