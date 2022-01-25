@@ -272,7 +272,7 @@ Catatan pribadi mengenai daftar kanji yang ada di buku "Basic Kanji Book Vol.1"
 |  長野県  |            |             prefektur nagano             |           nagano prefecture            |
 |   学長   |            |                                          |               president                |
 |  短時間  |            |              waktu singkat               |               short time               |
-|   短大   |            |              junior kampus               |             junior college             |
+|   短大   |            |         perguruan tinggi junior          |             junior college             |
 |   高校   |            |                   sma                    |              high school               |
 |   高速   |            |             kecepatan tinggi             |               high speed               |
 |   安心   |            |                   lega                   |                relieved                |
